@@ -1,0 +1,9 @@
+img {
+  width: 200px;
+  height: 200px;
+  margin: 2px 2px;
+}
+
+button {
+  display: block;         /* Cuando quiero que un button, anchor, o imagen den un enter al final debo poner display block, permite tener margenes top, right, botton, left. Inline es solo left y right */
+}
